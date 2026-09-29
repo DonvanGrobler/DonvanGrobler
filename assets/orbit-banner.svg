@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Donvan Grobler — Earth observation and geospatial products</title>
+  <desc id="desc">A satellite crosses a dark, gridded horizon above the words Earth observation, geospatial AI, and useful products.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1b2b"/>
+      <stop offset=".6" stop-color="#102d3a"/>
+      <stop offset="1" stop-color="#123e4a"/>
+    </linearGradient>
+    <linearGradient id="earth" x2="0" y2="1">
+      <stop stop-color="#3b9caa" stop-opacity=".50"/>
+      <stop offset="1" stop-color="#3b9caa" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#b0dce0" stroke-opacity=".085"/>
+    </pattern>
+    <clipPath id="frame"><rect width="960" height="260" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="260" fill="url(#sky)"/>
+    <rect width="960" height="260" fill="url(#grid)"/>
+    <path d="M-40 266 Q480 82 1000 266Z" fill="url(#earth)"/>
+    <path d="M-40 266 Q480 82 1000 266" fill="none" stroke="#89d5d6" stroke-opacity=".5"/>
+    <circle cx="790" cy="57" r="87" fill="none" stroke="#85c6cb" stroke-opacity=".18" stroke-dasharray="3 9"/>
+    <circle cx="790" cy="57" r="117" fill="none" stroke="#85c6cb" stroke-opacity=".10" stroke-dasharray="2 11"/>
+    <g fill="#a8e1e0" opacity=".65">
+      <circle cx="49" cy="36" r="1.5"/><circle cx="370" cy="44" r="1"/><circle cx="671" cy="35" r="1.4"/>
+      <circle cx="914" cy="125" r="1.3"/><circle cx="495" cy="206" r="1"/>
+    </g>
+    <path d="M682 173 Q790 100 891 88" fill="none" stroke="#72c8cd" stroke-opacity=".45" stroke-dasharray="3 7"/>
+    <g transform="translate(775 100) rotate(-23)">
+      <animateTransform attributeName="transform" type="translate" values="775 100;790 92;775 100" dur="8s" repeatCount="indefinite" additive="replace"/>
+      <g transform="rotate(-23)">
+        <rect x="-48" y="-11" width="29" height="22" rx="2" fill="#4d9dae" stroke="#9bd4d6" stroke-width="2"/>
+        <path d="M-41-11v22M-34-11v22M-27-11v22M-48 0h29" stroke="#0b3545" opacity=".65"/>
+        <rect x="19" y="-11" width="29" height="22" rx="2" fill="#4d9dae" stroke="#9bd4d6" stroke-width="2"/>
+        <path d="M26-11v22M33-11v22M40-11v22M19 0h29" stroke="#0b3545" opacity=".65"/>
+        <path d="M-19 0H-11M11 0H19" stroke="#c8ece7" stroke-width="3"/>
+        <rect x="-11" y="-10" width="22" height="20" rx="4" fill="#d2e9e4"/>
+        <circle cx="0" cy="0" r="4.5" fill="#318c9f"/>
+        <path d="M0-10V-20M-5-20H5" stroke="#d2e9e4" stroke-width="2"/>
+      </g>
+    </g>
+    <text x="56" y="60" fill="#8ad2d2" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3">OBSERVE / BUILD / EXPLAIN</text>
+    <text x="54" y="124" fill="#f3f7f5" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">Donvan Grobler</text>
+    <text x="56" y="163" fill="#c6dadd" font-family="Arial,Helvetica,sans-serif" font-size="19">Earth observation · Geospatial AI · Useful products</text>
+    <path d="M56 192H354" stroke="#66b7bf" stroke-width="2"/>
+    <text x="56" y="220" fill="#a6c6ca" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing=".7">SATELLITE DATA → INFORMATION PEOPLE CAN USE</text>
+  </g>
+</svg>
