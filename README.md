@@ -3,16 +3,16 @@
 
   <p>
     <a href="https://donvangrobler.github.io/">Website</a> ·
-    <a href="https://donvangrobler.github.io/blog/">Writing</a> ·
+    <a href="https://donvangrobler.github.io/writing/">Writing</a> ·
     <a href="https://github.com/DonvanGrobler?tab=repositories">Repositories</a>
   </p>
 </div>
 
 ### Hello, I'm Donvan Grobler 👋
 
-I'm a South African geographer and Earth observation programme lead based in Innsbruck, Austria. My path into satellite data began with geology and environmental science. Today I work across operational EO services, product development, and applied AI, moving between people's questions, technical teams, and hands-on prototypes.
+I'm an Earth observation project lead based in Innsbruck, Austria. I work across operational EO services, product development, and applied AI, moving between people's questions, technical teams, and hands-on prototypes.
 
-I'm particularly interested in the last mile of EO: turning pixels and models into evidence people can understand and act on. That interest runs through my work on accessible EO tools, land-cover change, and the verification of synthetic geospatial imagery. I [write about](https://donvangrobler.github.io/blog/) how we can start with the decisions people need to make and work backwards to the data and technology.
+I'm particularly interested in the last mile of EO: turning pixels and models into evidence people can understand and act on. That interest runs through my work on accessible EO tools, scaling platforms, and the verification of synthetic geospatial imagery. I [write about](https://donvangrobler.github.io/writing/) how we can start with the decisions people need to make and work backwards to the data and technology.
 
 ### Selected work
 
