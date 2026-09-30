@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/orbit-banner.svg" alt="Donvan Grobler — Earth observation, geospatial AI, and useful products" width="100%" />
+  <img src="assets/orbit-banner.svg" alt="Donvan Grobler — Earth observation, geospatial AI, and product development" width="100%" />
 
   <p>
     <a href="https://donvangrobler.github.io/">Website</a> ·
@@ -8,9 +8,11 @@
   </p>
 </div>
 
-### Hello
+### Hello, I'm Donvan Grobler 👋
 
-I work at the intersection of Earth observation, geospatial technology, research, and product development. I enjoy making satellite data easier to access, understand, and use in real decisions.
+I'm a South African geographer and Earth observation programme lead based in Innsbruck, Austria. My path into satellite data began with geology and environmental science. Today I work across operational EO services, product development, and applied AI, moving between people's questions, technical teams, and hands-on prototypes.
+
+I'm particularly interested in the last mile of EO: turning pixels and models into evidence people can understand and act on. That interest runs through my work on accessible EO tools, land-cover change, and the verification of synthetic geospatial imagery. I [write about](https://donvangrobler.github.io/blog/) how we can start with the decisions people need to make and work backwards to the data and technology.
 
 ### Selected work
 
@@ -19,13 +21,3 @@ I work at the intersection of Earth observation, geospatial technology, research
 | [EO Image Check](https://github.com/DonvanGrobler/AI4EO-detector) · [live prototype](https://ai4eo-detector.onrender.com/) | Helps investigate broad claims about satellite or map screenshots using independent Sentinel-2 observations. An experimental tool with explicit limits on what the imagery can verify. |
 | [LULC Change Buffer Zones](https://github.com/DonvanGrobler/LULC_change_buffer_zones) | Explores land-cover change around South African national parks with Dynamic World and Google Earth Engine. |
 | [Personal website](https://github.com/DonvanGrobler/donvangrobler.github.io) · [visit](https://donvangrobler.github.io/) | My writing and projects, built with Astro. |
-
-### Contribution trail
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DonvanGrobler/DonvanGrobler/output/contributions-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DonvanGrobler/DonvanGrobler/output/contributions-light.svg" />
-  <img alt="Animated path through Donvan's GitHub contribution calendar" src="https://raw.githubusercontent.com/DonvanGrobler/DonvanGrobler/output/contributions-light.svg" width="100%" />
-</picture>
-
-<sub>Generated daily from GitHub's contribution calendar. The animation reflects visible contributions and may omit private work.</sub>
